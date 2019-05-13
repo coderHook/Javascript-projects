@@ -10,4 +10,4 @@ Also there is a change in the classes made with classList.remove on we after pla
 
 ## Preview
 
-[image](url )
+[image](https://raw.githubusercontent.com/coderHook/Javascript-projects/master/01%20-%20JavaScript%20Drum%20Kit/preview/app_drumsticks.jpg)
